@@ -4,3 +4,4 @@ The main objective of this repository is to understand reinforcement learning ap
 
 List of resources:
  - https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
+ - https://www.coursera.org/learn/practical-rl/home/welcome
